@@ -1,0 +1,6 @@
+[package]
+name = "tools-skyvia"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS Skyvia cloud data integration pipeline bridge"
+license = "GPL-3.0-or-later"
