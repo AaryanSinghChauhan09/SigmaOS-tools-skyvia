@@ -3,7 +3,7 @@ name = "SigmaOS-tools-skyvia"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "tools-skyvia component"
+description = "tools skyvia component"
 upstream = []
 
 [contract]
