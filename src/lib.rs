@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 /// Skyvia integration pipeline and mapping model for SigmaOS cloud ETL.
 
 #[derive(Debug, Clone)]
